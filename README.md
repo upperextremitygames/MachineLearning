@@ -5,4 +5,6 @@ This repository incldues the input data, five Jupyter Notebooks (of which Table1
 
 The following Python packages and libraries are used, and need to be installed before the code is run on a local machine: numpy, pandas, matplotlib, seaborn, scikit-learn, xgboost, scikit-plot, pydot, mord, mlxtend, hyperopt, joblib, tkinter, pillow. Screenshots:
 
-
+<img src = "screenshots/1.png" width=400> <img src = "screenshots/2.png" width=400>
+<img src = "screenshots/3.png" width=400>
+<img src = "screenshots/4.png" width=400>
